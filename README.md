@@ -7,7 +7,7 @@ Real-time messaging: Users can send and receive messages instantly.
 Installation
 Follow these steps to install and set up the Chat App:
 
-Clone the repository from GitHub: git clone https://github.com/chatapp.git.
+Clone the repository from GitHub: https://github.com/Kishore2302/Chat-App.git
 Navigate to the project directory: cd chatapp.
 Install dependencies: npm install or yarn install.
 Set up the database: Configure the database connection and run migrations.
